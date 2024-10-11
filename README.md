@@ -4,7 +4,7 @@ About Me
 
 🌟 Passionate about competitive programming and constantly improving my problem-solving skills.
 
-🌱 Currently delving into Java backend development to build robust and scalable applications.
+🌱 Currently delving into Java and Go backend development to build robust and scalable applications.
 
 🤝 Looking to collaborate on exciting projects and innovative solutions in software development.
 
